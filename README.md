@@ -10,8 +10,8 @@ This robotic arm is engineered with 5 degrees of freedom, enabling a wide range 
  5. Gripper Mechanism – Opens and closes the gripper to grasp or release objects.
 
 # ROBOT ARM DESING IMAGE
-[arm](arm.png)
-
+![arm](arm.png)
+![robot-arm](robot-arm.stl)
 
  # How to Use:
 To get started with the 5-DOF robotic arm model, follow these steps:
