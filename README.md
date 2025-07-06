@@ -11,11 +11,14 @@ This robotic arm is engineered with 5 degrees of freedom, enabling a wide range 
 
 # ROBOT ARM DESING IMAGE
 ![arm](arm.png)
+
+
+ # files
 ![robot-arm](robot-arm.stl)
 
  # How to Use:
 To get started with the 5-DOF robotic arm model, follow these steps:
- 1. Download the robot-arm.stl file.
+ 1. Download the ![robot-arm](robot-arm.stl) file.
  2. Import the file into TinkerCAD or any compatible 3D viewer.
  3. Refer to the arm.png image to view the labeled components and understand the structure.
  4. Simulate or 3D print the model based on your project needs.
